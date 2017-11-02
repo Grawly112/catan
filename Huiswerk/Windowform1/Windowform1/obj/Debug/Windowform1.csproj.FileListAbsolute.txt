@@ -1,0 +1,10 @@
+C:\Users\john\source\repos\Windowform1\Windowform1\bin\Debug\Windowform1.exe.config
+C:\Users\john\source\repos\Windowform1\Windowform1\bin\Debug\Windowform1.exe
+C:\Users\john\source\repos\Windowform1\Windowform1\bin\Debug\Windowform1.pdb
+C:\Users\john\source\repos\Windowform1\Windowform1\obj\Debug\Windowform1.csprojResolveAssemblyReference.cache
+C:\Users\john\source\repos\Windowform1\Windowform1\obj\Debug\Windowform1.renteform.resources
+C:\Users\john\source\repos\Windowform1\Windowform1\obj\Debug\Windowform1.Properties.Resources.resources
+C:\Users\john\source\repos\Windowform1\Windowform1\obj\Debug\Windowform1.csproj.GenerateResource.Cache
+C:\Users\john\source\repos\Windowform1\Windowform1\obj\Debug\Windowform1.csproj.CoreCompileInputs.cache
+C:\Users\john\source\repos\Windowform1\Windowform1\obj\Debug\Windowform1.exe
+C:\Users\john\source\repos\Windowform1\Windowform1\obj\Debug\Windowform1.pdb
